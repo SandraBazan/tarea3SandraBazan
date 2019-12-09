@@ -10,7 +10,7 @@ package daw.jcarlosvico;
  * @author jfervic933
  */
 public class Principal {
-    
+
     public static void main(String[] args) {
         VentanaPrincipal ventanaPrincipal = new VentanaPrincipal();
     }
